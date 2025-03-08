@@ -18,6 +18,19 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+![Stars](https://img.shields.io/badge/Stars-0-blue?style=flat-square)
+![Commits](https://img.shields.io/badge/Commits%20(2025)-0-green?style=flat-square)
+![PRs](https://img.shields.io/badge/PRs-0-orange?style=flat-square)
+![Issues](https://img.shields.io/badge/Issues-0-red?style=flat-square)
+![Contributed](https://img.shields.io/badge/Contributed%20(last%20year)-0-lightgrey?style=flat-square)
+
+[![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=alibytesk&theme=dark)](https://git.io/streak-stats)
+
+### 🗣️ Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibytesk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=alibytesk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
