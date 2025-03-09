@@ -2,11 +2,8 @@ Hi , I'm Alireza
 <h3 align="center"> IT & Software Engineer | Backend Developer</h3>
 <h4 align="center"> I'm a backend developer who loves building scalable and optimized systems. I work with technologies like Django, Python, and SQL databases, and I'm passionate about designing clean and secure APIs. In my free time, I contribute to open-source projects and enjoy learning new technologies.
 
-<h4>🌱 Always learning: Icontribute to open-source projects, explore new technologies, and refine my coding skills daily  </h4>
-  
-<h3 align="left">📫 Connect with me:</h3>
-<p align="left"> alibytesk@gmail.com
-</p>
+<h4>🌱 Always learning: Icontribute to open-source projects, explore new technologies, and refine my coding skills daily.  </h4>
+<h4> Who loves coding and dreams of becoming a great backend developer. </h4>
 
   
 <h3 align="left">Languages and Tools:</h3>
@@ -22,6 +19,12 @@ Hi , I'm Alireza
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+<h3 align="left">📫 Connect with me:</h3>
+<p align="left"> alibytesk@gmail.com
+</p>
+<p align="left"> github.com/alibytesk
+</p>
+<hr />
 ![Stars](https://img.shields.io/badge/Stars-0-blue?style=flat-square)
 ![Commits](https://img.shields.io/badge/Commits%20(2025)-0-green?style=flat-square)
 ![PRs](https://img.shields.io/badge/PRs-0-orange?style=flat-square)
