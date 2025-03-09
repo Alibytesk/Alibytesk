@@ -1,10 +1,14 @@
 Hi , I'm Alireza
 <h3 align="center"> IT & Software Engineer | Backend Developer</h3>
 <h4 align="center"> I'm a backend developer who loves building scalable and optimized systems. I work with technologies like Django, Python, and SQL databases, and I'm passionate about designing clean and secure APIs. In my free time, I contribute to open-source projects and enjoy learning new technologies.
+
+<h4>🌱 Always learning: Icontribute to open-source projects, explore new technologies, and refine my coding skills daily  </h4>
+  
 <h3 align="left">📫 Connect with me:</h3>
 <p align="left"> alibytesk@gmail.com
 </p>
 
+  
 <h3 align="left">Languages and Tools:</h3>
 
 ![DjangoREST](https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
