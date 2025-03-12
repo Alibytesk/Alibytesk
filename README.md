@@ -1,10 +1,7 @@
 Hi , I'm Alireza
-<h4 align="center"> I'm a backend developer who loves building scalable and optimized systems. I work with technologies like Django, Python, and SQL databases, and I'm passionate about designing clean and secure APIs. In my free time, I contribute to open-source projects and enjoy learning new technologies.
+<h4 align="center"> I'm a backend developer who loves building scalable and optimized systems. I work with technologies like Django, Python, and SQL databases, and I'm passionate about designing clean and secure APIs. In my free time, I contribute to open-source projects and enjoy learning new technologies. Icontribute to open-source projects, explore new technologies, and refine my coding skills daily. 
 
-<h4>Always learning: Icontribute to open-source projects, explore new technologies, and refine my coding skills daily.  </h4>
-<h4> Who loves coding and dreams of becoming a great backend developer. </h4>
 
-  
 <h3 align="left">Languages and Tools:</h3>
 
 ![DjangoREST](https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -21,12 +18,6 @@ Hi , I'm Alireza
 
 <hr />
 
-
-
-
-
-### 🗣️ Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alibytesk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=alibytesk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
